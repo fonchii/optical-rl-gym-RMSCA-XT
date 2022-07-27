@@ -1,6 +1,11 @@
 # Changes to official repository
 This repository added a differentiated reward, in case of a correct assignment, for each possible route chosen based on the level of cross-talk with respect to the other route options.
 <br><br>
+
+# DeepRMSCAenv 
+[Iro-Team DeepRMSCA](https://gitlab.com/IRO-Team/deeprmsca-a-mcf-eon-enviroment-for-optical-rl-gym/) repository.
+<br><br>
+
 # Optical RL-Gym
 
 [OpenAI Gym](https://gym.openai.com/) is the de-facto interface for reinforcement learning environments.
