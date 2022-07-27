@@ -41,6 +41,10 @@ Across all the environments, the following features are available:
 
 <a href="#installation"><h2>Installation</h2></a>
 
+### <h3>Easy Installation</h3></a>
+
+For a easy install just use the environment "environment.yml" and run the examples. 
+
 You can install the Optical RL-Gym with:
 
 ```bash
