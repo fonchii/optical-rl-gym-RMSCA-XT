@@ -1,3 +1,6 @@
+# Changes to official repository
+This repository added a differentiated reward, in case of a correct assignment, for each possible route chosen based on the level of cross-talk with respect to the other route options.
+<br><br>
 # Optical RL-Gym
 
 [OpenAI Gym](https://gym.openai.com/) is the de-facto interface for reinforcement learning environments.
@@ -39,11 +42,13 @@ Across all the environments, the following features are available:
 5. <a href="#contributors">Contributors</a>
 6. <a href="#contact">Contact</a>
 
+### <h2>Easy Installation</h2></a>
+
+For a easy install just use the environment "environment.yml" and run the examples.
+
 <a href="#installation"><h2>Installation</h2></a>
 
-### <h3>Easy Installation</h3></a>
 
-For a easy install just use the environment "environment.yml" and run the examples. 
 
 You can install the Optical RL-Gym with:
 
